@@ -34,6 +34,7 @@ class App extends Component {
   }
 // Its all code 
 // <button onClick={this.switchNameHandler.bind(this, "Vedu")}> Switch Button </button>*/
+// Style also included.
 
   render() {
     const style = {
